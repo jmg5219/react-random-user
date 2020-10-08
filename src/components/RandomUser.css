@@ -1,0 +1,27 @@
+.user-card{
+    border: 1px black solid;
+    width: 15rem;
+    margin:2rem;
+    padding:2rem;
+    background:whitesmoke;
+    border-radius:0.25rem;
+    filter: drop-shadow(5px 5px 5px #282C34);
+    font-size: 1rem;
+    height:18rem;
+}
+
+p{
+  text-align:left; 
+  margin-top:2rem;
+}
+
+li{
+    list-style:none;
+}
+
+.container{
+    display:flex;
+
+    align-items: center;
+    justify-content: center;
+}
